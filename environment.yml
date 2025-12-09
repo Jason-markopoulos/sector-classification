@@ -1,0 +1,22 @@
+
+name: sector_classification
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy
+      - pandas
+      - scikit-learn
+      - matplotlib
+      - seaborn
+      - xgboost
+      - shap
+      - umap-learn
+      - liac-arff
+      - ucimlrepo
+      - statsmodels
+      - openpyxl
+      - textwrap3
