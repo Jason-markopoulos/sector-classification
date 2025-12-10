@@ -3,7 +3,6 @@
 *.ipynb_save
 
 # Generated images & results
-figures/
 results/
 
 # Latex clutter (if any)
